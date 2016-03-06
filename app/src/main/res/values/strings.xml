@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Material Demo</string>
+    <string-array name="dummy_data">
+        <item>First dummy data</item>
+        <item>Second dummy data</item>
+        <item>Third dummy data</item>
+        <item>Fourth dummy data</item>
+        <item>Fifth dummy data</item>
+        <item>Sixth dummy data</item>
+        <item>Seventh dummy data</item>
+        <item>Eight dummy data</item>
+        <item>Ninth dummy data</item>
+        <item>Tenth dummy data</item>
+        <item>Eleventh dummy data</item>
+        <item>Twelfth dummy data</item>
+        <item>Thirteenth dummy data</item>
+        <item>Fourteenth dummy data</item>
+        <item>Fifteenth dummy data</item>
+        <item>Sixteenth dummy data</item>
+        <item>Seventeenth dummy data</item>
+        <item>Eighteenth dummy data</item>
+        <item>Nineteenth dummy data</item>
+        <item>Twentieth dummy data</item>
+    </string-array>
+</resources>
